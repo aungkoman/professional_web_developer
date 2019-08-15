@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Professional Web Developer</string>
+    <string name="action_settings">About Us</string>
+    <string name="exit_greeting">Press back key to exit</string>
+</resources>
